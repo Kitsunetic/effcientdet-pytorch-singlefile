@@ -3,7 +3,7 @@ This code is effcientdet pytorch implementation and single file combination of a
 Partial modifications for single import, loss calculation, automatic checkpoint loading are attached.
 
 * Referenced to https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
-* Edited by https://github.com/Kitsunetic
+* Edited by https://github.com/Kitsunetic/effcientdet-pytorch-singlefile
 """
 import collections
 import itertools
